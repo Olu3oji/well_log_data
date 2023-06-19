@@ -42,7 +42,6 @@ To run the EDA code, make sure you have the following dependencies installed:
 - pandas
 - matplotlib
 
-You can modify the code by replacing `'path_to_your_csv_file.csv'` with the actual file path of your well log data in CSV format.
 
 ## Conclusion
 
